@@ -1,0 +1,350 @@
+\begin{thebibliography}{10}
+
+\bibitem{62}
+Josh Abramson, Jonas Adler, Jack Dunger, Richard Evans, Tim Green, Alexander Pritzel, Olaf Ronneberger, Lindsay Willmore, Andrew~J Ballard, Joshua Bambrick, et~al.
+\newblock Accurate structure prediction of biomolecular interactions with alphafold 3.
+\newblock {\em Nature}, 630(8016):493--500, 2024.
+
+\bibitem{48}
+Pedro~J Ballester and John~BO Mitchell.
+\newblock A machine learning approach to predicting protein--ligand binding affinity with applications to molecular docking.
+\newblock {\em Bioinformatics}, 26(9):1169--1175, 2010.
+
+\bibitem{1}
+Jonathan Bearak, Anna Popinchalk, Bela Ganatra, Ann-Beth Moller, {\"O}zge Tun{\c{c}}alp, Cynthia Beavin, Lorraine Kwok, and Leontine Alkema.
+\newblock Unintended pregnancy and abortion by income, region, and the legal status of abortion: estimates from a comprehensive model for 1990--2019.
+\newblock {\em The Lancet Global Health}, 8(9):e1152--e1161, 2020.
+
+\bibitem{45}
+Jacob Benesty, Jingdong Chen, Yiteng Huang, and Israel Cohen.
+\newblock Pearson correlation coefficient.
+\newblock In {\em Noise reduction in speech processing}, pages 1--4. Springer, 2009.
+
+\bibitem{51}
+Zhaoyang Chu, Feng Huang, Haitao Fu, Yuan Quan, Xionghui Zhou, Shichao Liu, and Wen Zhang.
+\newblock Hierarchical graph representation learning for the prediction of drug-target binding affinity.
+\newblock {\em Information Sciences}, 613:507--523, 2022.
+
+\bibitem{65}
+Daniel~A Ciulla, Patricia~K Dranchak, Mahesh Aitha, Renier~HP van Neer, Divia Shah, Ravi Tharakan, Kelli~M Wilson, Yuhong Wang, John~C Braisted, and James Inglese.
+\newblock A general assay platform to study protein pharmacology using ligand-dependent structural dynamics.
+\newblock {\em Nature Communications}, 16(1):1--16, 2025.
+
+\bibitem{52}
+Mindy~I Davis, Jeremy~P Hunt, Sanna Herrgard, Pietro Ciceri, Lisa~M Wodicka, Gabriel Pallares, Michael Hocker, Daniel~K Treiber, and Patrick~P Zarrinkar.
+\newblock Comprehensive analysis of kinase inhibitor selectivity.
+\newblock {\em Nature biotechnology}, 29(11):1046--1051, 2011.
+
+\bibitem{68}
+Warren~L DeLano et~al.
+\newblock Pymol: An open-source molecular graphics tool.
+\newblock {\em CCP4 Newsl. protein crystallogr}, 40(1):82--92, 2002.
+
+\bibitem{40}
+Yimiao Feng, Yahui Long, He~Wang, Yang Ouyang, Quan Li, Min Wu, and Jie Zheng.
+\newblock Benchmarking machine learning methods for synthetic lethality prediction in cancer.
+\newblock {\em Nature Communications}, 15(1):9058, 2024.
+
+\bibitem{12}
+Moran Gershoni, Ron Hauser, Leah Yogev, Ofer Lehavi, Foad Azem, Haim Yavetz, Shmuel Pietrokovski, and Sandra~E Kleiman.
+\newblock A familial study of azoospermic men identifies three novel causative mutations in three new human azoospermia genes.
+\newblock {\em Genetics in Medicine}, 19(9):998--1006, 2017.
+
+\bibitem{54}
+Kushankur Ghosh, Colin Bellinger, Roberto Corizzo, Paula Branco, Bartosz Krawczyk, and Nathalie Japkowicz.
+\newblock The class imbalance problem in deep learning.
+\newblock {\em Machine Learning}, 113(7):4845--4901, 2024.
+
+\bibitem{18}
+Yayun Gu, Cheng Wang, Rongxuan Zhu, Jianshui Yang, Wenwen Yuan, Yanhui Zhu, Yan Zhou, Na~Qin, Hongbing Shen, Hongxia Ma, et~al.
+\newblock The cancer-testis gene, meiob, sensitizes triple-negative breast cancer to parp1 inhibitors by inducing homologous recombination deficiency.
+\newblock {\em Cancer biology \& medicine}, 18(1):74--87, 2021.
+
+\bibitem{13}
+Rui Guo, Yang Xu, N~Adrian Leu, Lei Zhang, Serge~Y Fuchs, Lan Ye, and P~Jeremy Wang.
+\newblock The ssdna-binding protein meiob acts as a dosage-sensitive regulator of meiotic recombination.
+\newblock {\em Nucleic acids research}, 48(21):12219--12233, 2020.
+
+\bibitem{53}
+Tong He, Marten Heidemeyer, Fuqiang Ban, Artem Cherkasov, and Martin Ester.
+\newblock Simboost: a read-across approach for predicting drug--target binding affinities using gradient boosting machines.
+\newblock {\em Journal of cheminformatics}, 9:1--14, 2017.
+
+\bibitem{21}
+Kirk~E Hevener, Russell Pesavento, JinHong Ren, Hyun Lee, Kiira Ratia, and Michael~E Johnson.
+\newblock Hit-to-lead: hit validation and assessment.
+\newblock In {\em Methods in Enzymology}, volume 610, pages 265--309. Elsevier, 2018.
+
+\bibitem{4}
+Suk-Hyun Hong, Glenda Castro, Dan Wang, Russell Nofsinger, Maureen Kane, Alexandra Folias, Annette~R Atkins, Ruth~T Yu, Joseph~L Napoli, Paolo Sassone-Corsi, et~al.
+\newblock Targeting nuclear receptor corepressors for reversible male contraception.
+\newblock {\em Proceedings of the National Academy of Sciences}, 121(9):e2320129121, 2024.
+
+\bibitem{2}
+Niloufar Ilani, Mara~Y Roth, John~K Amory, Ronald~S Swerdloff, Clint Dart, Stephanie~T Page, William~J Bremner, Regine Sitruk-Ware, Narender Kumar, Diana~L Blithe, et~al.
+\newblock A new combination of testosterone and nestorone transdermal gels for male hormonal contraception.
+\newblock {\em The Journal of Clinical Endocrinology \& Metabolism}, 97(10):3476--3486, 2012.
+
+\bibitem{69}
+John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin {\v{Z}}{\'\i}dek, Anna Potapenko, et~al.
+\newblock Highly accurate protein structure prediction with alphafold.
+\newblock {\em nature}, 596(7873):583--589, 2021.
+
+\bibitem{66}
+Fleming Kretschmer, Jan Seipp, Marcus Ludwig, Gunnar~W Klau, and Sebastian B{\"o}cker.
+\newblock Coverage bias in small molecule machine learning.
+\newblock {\em Nature Communications}, 16(1):554, 2025.
+
+\bibitem{14}
+Sophie La~Salle, Kristina Palmer, Marilyn O'Brien, John~C Schimenti, John Eppig, and Mary~Ann Handel.
+\newblock Spata22, a novel vertebrate-specific gene, is required for meiotic progress in mouse germ cells.
+\newblock {\em Biology of reproduction}, 86(2):45--1, 2012.
+
+\bibitem{49}
+Hongjian Li, Kwong-Sak Leung, Man-Hon Wong, and Pedro~J Ballester.
+\newblock Low-quality structural and interaction data improves binding affinity prediction via random forest.
+\newblock {\em Molecules}, 20(6):10947--10962, 2015.
+
+\bibitem{35}
+Kun Li, Xiuwen Gong, Jia Wu, and Wenbin Hu.
+\newblock Contrastive learning drug response models from natural language supervision.
+\newblock In Kate Larson, editor, {\em Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, {IJCAI-24}}, pages 2126--2134. International Joint Conferences on Artificial Intelligence Organization, 8 2024.
+\newblock Main Track.
+
+\bibitem{44}
+Kun Li, Weiwei Liu, Yong Luo, Xiantao Cai, Jia Wu, and Wenbin Hu.
+\newblock Zero-shot learning for preclinical drug screening.
+\newblock In Kate Larson, editor, {\em Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, {IJCAI-24}}, pages 2117--2125. International Joint Conferences on Artificial Intelligence Organization, 8 2024.
+\newblock Main Track.
+
+\bibitem{36}
+Kun Li, Yida Xiong, Hongzhi Zhang, Xiantao Cai, Jia Wu, Bo~Du, and Wenbin Hu.
+\newblock Graph-structured small molecule drug discovery through deep learning: Progress, challenges, and opportunities.
+\newblock In {\em 2025 IEEE International Conference on Web Services (ICWS)}, pages 1033--1042, 2025.
+
+\bibitem{22}
+Kun Li, Yue Zeng, Yi-da Xiong, Hao-chen Wu, Sui Fang, Zhi-yan Qu, Yan Zhu, Bo~Du, Zhao-bing Gao, and Wen-bin Hu.
+\newblock Contrastive learning-based drug screening model for glun1/glun3a inhibitors.
+\newblock {\em Acta Pharmacologica Sinica}, Jun 2025.
+
+\bibitem{30}
+Zewen Li, Fan Liu, Wenjie Yang, Shouheng Peng, and Jun Zhou.
+\newblock A survey of convolutional neural networks: analysis, applications, and prospects.
+\newblock {\em IEEE transactions on neural networks and learning systems}, 33(12):6999--7019, 2021.
+
+\bibitem{47}
+Lihao Liu, Qi~Dou, Hao Chen, Jing Qin, and Pheng-Ann Heng.
+\newblock Multi-task deep model with margin ranking loss for lung nodule analysis.
+\newblock {\em IEEE transactions on medical imaging}, 39(3):718--728, 2019.
+
+\bibitem{63}
+Tiqing Liu, Linda Hwang, Stephen~K Burley, Carmen~I Nitsche, Christopher Southan, W~Patrick Walters, and Michael~K Gilson.
+\newblock Bindingdb in 2024: a fair knowledgebase of protein-small molecule binding data.
+\newblock {\em Nucleic acids research}, 53(D1):D1633--D1644, 2025.
+
+\bibitem{31}
+Youzhi Liu, Linlin Xing, Longbo Zhang, Hongzhen Cai, and Maozu Guo.
+\newblock Geformerdta: drug target affinity prediction based on transformer graph for early fusion.
+\newblock {\em Scientific Reports}, 14(1):7416, Mar 2024.
+
+\bibitem{6}
+Mengcheng Luo, Fang Yang, N~Adrian Leu, Jessica Landaiche, Mary~Ann Handel, Ricardo Benavente, Sophie La~Salle, and P~Jeremy Wang.
+\newblock Meiob exhibits single-stranded dna-binding and exonuclease activities and is essential for meiotic recombination.
+\newblock {\em Nature communications}, 4(1):2788, 2013.
+
+\bibitem{5}
+Nadja Mannowetz, Sanny~SW Chung, Soma Maitra, Md~Abdullah~Al Noman, Henry~L Wong, Narsihmulu Cheryala, Akash Bakshi, Debra~J Wolgemuth, and Gunda~I Georg.
+\newblock Targeting the retinoid signaling pathway with yct-529 for effective and reversible oral contraception in mice and primates.
+\newblock {\em Communications Medicine}, 5(1):68, 2025.
+
+\bibitem{41}
+Konstantinos Mavrogiorgos, Athanasios Kiourtis, Argyro Mavrogiorgou, Andreas Menychtas, and Dimosthenis Kyriazis.
+\newblock Bias in machine learning: A literature review.
+\newblock {\em Applied Sciences}, 14(19):8860, 2024.
+
+\bibitem{23}
+Seokhyun Moon, Wonho Zhung, Soojung Yang, Jaechang Lim, and Woo~Youn Kim.
+\newblock Pignet: a physics-informed deep learning model toward generalized drug--target interaction predictions.
+\newblock {\em Chemical Science}, 13(13):3661--3673, 2022.
+
+\bibitem{32}
+Fatima Noor, Muhammad Junaid, Atiah~H Almalki, Mohammed Almaghrabi, Shakira Ghazanfar, and Muhammad Tahir~ul Qamar.
+\newblock Deep learning pipeline for accelerating virtual screening in drug discovery.
+\newblock {\em Scientific Reports}, 14(1):28321, 2024.
+
+\bibitem{33}
+Mohit Pandey, Michael Fernandez, Francesco Gentile, Olexandr Isayev, Alexander Tropsha, Abraham~C Stern, and Artem Cherkasov.
+\newblock The transformational role of gpu computing and deep learning in drug discovery.
+\newblock {\em Nature Machine Intelligence}, 4(3):211--221, 2022.
+
+\bibitem{61}
+Zhuoran Qiao, Weili Nie, Arash Vahdat, Thomas~F Miller~III, and Animashree Anandkumar.
+\newblock State-specific protein--ligand complex structure prediction with a multiscale deep generative model.
+\newblock {\em Nature Machine Intelligence}, 6(2):195--208, 2024.
+
+\bibitem{55}
+Salim Rezvani and Xizhao Wang.
+\newblock A broad review on class imbalance learning techniques.
+\newblock {\em Applied Soft Computing}, 143:110415, 2023.
+
+\bibitem{8}
+Jonathan Ribeiro, Pauline Dupaigne, Cynthia Petrillo, C{\'e}cile Ducrot, Clotilde Duquenne, Xavier Veaute, Carole Saintom{\'e}, Didier Busso, Rapha{\"e}l Guerois, Emmanuelle Martini, et~al.
+\newblock The meiosis-specific meiob--spata22 complex cooperates with rpa to form a compacted mixed meiob/spata22/rpa/ssdna complex.
+\newblock {\em Dna Repair}, 102:103097, 2021.
+
+\bibitem{19}
+Mohamed~N Saad and Mohamed Hamed.
+\newblock Transcriptome-wide association study reveals new molecular interactions associated with melanoma pathogenesis.
+\newblock {\em Cancers}, 16(14):2517, 2024.
+
+\bibitem{29}
+Franco Scarselli, Marco Gori, Ah~Chung Tsoi, Markus Hagenbuchner, and Gabriele Monfardini.
+\newblock The graph neural network model.
+\newblock {\em IEEE transactions on neural networks}, 20(1):61--80, 2008.
+
+\bibitem{46}
+Philip Sedgwick.
+\newblock Spearman’s rank correlation coefficient.
+\newblock {\em Bmj}, 349, 2014.
+
+\bibitem{3}
+Sheena Sharma, Deepak Ahire, Abdul Basit, Maria Lajoie, Christina Wang, Min~S Lee, Diana~L Blithe, John~K Amory, Dilip~K Singh, Scott Heyward, et~al.
+\newblock Dimethandrolone, a potential male contraceptive pill, is primarily metabolized by the highly polymorphic udp-glucuronosyltransferase 2b17 enzyme in human intestine and liver.
+\newblock {\em Drug Metabolism and Disposition}, 50(12):1493--1500, 2022.
+
+\bibitem{20}
+Yasuo Shiohama, Junya Ohtake, Takayuki Ohkuri, Daisuke Noguchi, Yuji Togashi, Hidemitsu Kitamura, and Takashi Nishimura.
+\newblock Identification of a meiosis-specific protein, meiob, as a novel cancer/testis antigen and its augmented expression in demethylated cancer cells.
+\newblock {\em Immunology letters}, 158(1-2):175--182, 2014.
+
+\bibitem{57}
+Sakshi Singh, Qanita~Bani Baker, and Dev~Bukhsh Singh.
+\newblock Molecular docking and molecular dynamics simulation.
+\newblock In {\em Bioinformatics}, pages 291--304. Elsevier, 2022.
+
+\bibitem{7}
+Benoit Souquet, Emilie Abby, Roxane Herv{\'e}, Friederike Finsterbusch, Sophie Tourpin, Ronan Le~Bouffant, Clotilde Duquenne, S{\'e}bastien Messiaen, Emmanuelle Martini, Jacqueline Bernardino-Sgherri, et~al.
+\newblock Meiob targets single-strand dna and is necessary for meiotic recombination.
+\newblock {\em PLoS genetics}, 9(9):e1003784, 2013.
+
+\bibitem{64}
+Yanrui Suo, Xu~Qian, Zhaoping Xiong, Xiaohong Liu, Chao Wang, Baiyang Mu, Xinyuan Wu, Weiwei Lu, Meiying Cui, Jiaxiang Liu, et~al.
+\newblock Enhancing the predictive power of machine learning models through a chemical space complementary del screening strategy.
+\newblock {\em Journal of Medicinal Chemistry}, 67(21):18969--18980, 2024.
+
+\bibitem{56}
+Ahmad~S Tarawneh, Ahmad~B Hassanat, Ghada~Awad Altarawneh, and Abdullah Almuhaimeed.
+\newblock Stop oversampling for class imbalance learning: A review.
+\newblock {\em IEEe Access}, 10:47643--47660, 2022.
+
+\bibitem{24}
+Chuangchuang Tian, Luping Wang, Zhiming Cui, and Hongjie Wu.
+\newblock Gtamp-dta: Graph transformer combined with attention mechanism for drug-target binding affinity prediction.
+\newblock {\em Computational Biology and Chemistry}, 108:107982, 2024.
+
+\bibitem{37}
+Prafulla~C Tiwari, Rishi Pal, Manju~J Chaudhary, and Rajendra Nath.
+\newblock Artificial intelligence revolutionizing drug development: Exploring opportunities and challenges.
+\newblock {\em Drug Development Research}, 84(8):1652--1663, 2023.
+
+\bibitem{28}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan~N Gomez, \L~ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock In I.~Guyon, U.~Von Luxburg, S.~Bengio, H.~Wallach, R.~Fergus, S.~Vishwanathan, and R.~Garnett, editors, {\em Advances in Neural Information Processing Systems}, volume~30. Curran Associates, Inc., 2017.
+
+\bibitem{58}
+Abraham Vidal-Limon, Jos{\'e}~E Aguilar-Toal{\'a}, and Andrea~M Liceaga.
+\newblock Integration of molecular docking analysis and molecular dynamics simulations for studying food proteins and bioactive peptides.
+\newblock {\em Journal of agricultural and food chemistry}, 70(4):934--943, 2022.
+
+\bibitem{42}
+Izhar Wallach, Denzil Bernard, Kong Nguyen, Gregory Ho, Adrian Morrison, Adrian Stecula, Andreana Rosnik, Ann~Marie O’Sullivan, Aram Davtyan, Ben Samudio, et~al.
+\newblock Ai is a viable alternative to high throughput screening: a 318-target study.
+\newblock {\em Scientific Reports}, 14(1):7526, 2024.
+
+\bibitem{50}
+Shudong Wang, Xuanmo Song, Yuanyuan Zhang, Kuijie Zhang, Yingye Liu, Chuanru Ren, and Shanchen Pang.
+\newblock Msgnn-dta: Multi-scale topological feature fusion based on graph neural networks for drug--target binding affinity prediction.
+\newblock {\em International Journal of Molecular Sciences}, 24(9):8326, 2023.
+
+\bibitem{59}
+Felix Wong, Aarti Krishnan, Erica~J Zheng, Hannes St{\"a}rk, Abigail~L Manson, Ashlee~M Earl, Tommi Jaakkola, and James~J Collins.
+\newblock Benchmarking alphafold-enabled molecular docking predictions for antibiotic discovery.
+\newblock {\em Molecular systems biology}, 18(9):e11081, 2022.
+
+\bibitem{15}
+Yufan Wu, Yang Li, Ghulam Murtaza, Jianteng Zhou, Yuying Jiao, Chenjia Gong, Congyuan Hu, Qiqi Han, Huan Zhang, Yuanwei Zhang, et~al.
+\newblock Whole-exome sequencing of consanguineous families with infertile men and women identifies homologous mutations in spata22 and meiob.
+\newblock {\em Human Reproduction}, 36(10):2793--2804, 2021.
+
+\bibitem{9}
+Yang Xu, Roger~A Greenberg, Ernst Schonbrunn, and P~Jeremy Wang.
+\newblock Meiosis-specific proteins meiob and spata22 cooperatively associate with the single-stranded dna-binding replication protein a complex and dna double-strand breaks.
+\newblock {\em Biology of reproduction}, 96(5):1096--1104, 2017.
+
+\bibitem{67}
+Yang Xu, Rong Liu, N~Adrian Leu, Lei Zhang, Ilsiya Ibragmova, David~C Schultz, and P~Jeremy Wang.
+\newblock A cell-based high-content screen identifies isocotoin as a small molecule inhibitor of the meiosis-specific meiob--spata22 complex.
+\newblock {\em Biology of reproduction}, 103(2):333--342, 2020.
+
+\bibitem{10}
+Yating Xu, Zhen Chen, Panfeng Wu, Wei Qu, Hanqing Shi, Muyang Cheng, Yumin Xu, Tingyu Jin, Cong Liu, Yi~Li, et~al.
+\newblock Nuclear localization of human meiob requires its nls in the ob domain and interaction with spata22: Human spata22 assists meiob to enter the nucleus.
+\newblock {\em Acta Biochimica et Biophysica Sinica}, 55(1):154, 2022.
+
+\bibitem{11}
+Yating Xu, Wei Qu, Erchi Zhou, Qi~Sun, Weihao Gong, Lei Xu, Yaoke Lei, Zhangying Jia, Hanqing Shi, Xinghua Zhang, et~al.
+\newblock New feature of hmeiob and hspata22 binding to ssdna from a single-molecule perspective.
+\newblock {\em Acta biochimica et biophysica Sinica}, 2025.
+
+\bibitem{38}
+Jingkang Yang, Kaiyang Zhou, Yixuan Li, and Ziwei Liu.
+\newblock Generalized out-of-distribution detection: A survey.
+\newblock {\em International Journal of Computer Vision}, 132(12):5635--5662, 2024.
+
+\bibitem{60}
+Zhi Yang, Diane~L. Haakonsen, Michael Heider, Samuel~R. Witus, Alex Zelter, Tobias Beschauner, Michael~J. MacCoss, and Michael Rap{\'e}.
+\newblock Molecular basis of sifi activity in the integrated stress response.
+\newblock {\em Nature}, May 2025.
+
+\bibitem{39}
+Zitong Yang, Yaodong Yu, Chong You, Jacob Steinhardt, and Yi~Ma.
+\newblock Rethinking bias-variance trade-off for generalization of neural networks.
+\newblock In {\em International Conference on Machine Learning}, pages 10767--10777. PMLR, 2020.
+
+\bibitem{16}
+Chencheng Yao, Dong Hou, Zhiyong Ji, Dongmei Pang, Peng Li, Ruhui Tian, Yuxiang Zhang, Ningjing Ou, Haowei Bai, Erlei Zhi, et~al.
+\newblock Bi-allelic spata22 variants cause premature ovarian insufficiency and nonobstructive azoospermia due to meiotic arrest.
+\newblock {\em Clinical Genetics}, 101(5-6):507--516, 2022.
+
+\bibitem{25}
+Mehdi Yazdani-Jahromi, Niloofar Yousefi, Aida Tayebi, Elayaraja Kolanthai, Craig~J Neal, Sudipta Seal, and Ozlem~Ozmen Garibay.
+\newblock Attentionsitedti: an interpretable graph-based model for drug-target interaction prediction using nlp sentence-level relation classification.
+\newblock {\em Briefings in Bioinformatics}, 23(4):bbac272, 2022.
+
+\bibitem{26}
+Qing Ye, Chang-Yu Hsieh, Ziyi Yang, Yu~Kang, Jiming Chen, Dongsheng Cao, Shibo He, and Tingjun Hou.
+\newblock A unified drug--target interaction prediction framework based on knowledge graph and recommendation system.
+\newblock {\em Nature communications}, 12(1):6775, 2021.
+
+\bibitem{34}
+Qing Ye and Yaxin Sun.
+\newblock Graph neural pre-training based drug-target affinity prediction.
+\newblock {\em Frontiers in Genetics}, 15:1452339, 2024.
+
+\bibitem{43}
+Yi~Zang, Mingbo Su, Qingxing Wang, Xi~Cheng, Wenru Zhang, Yao Zhao, Tong Chen, Yingyan Jiang, Qiang Shen, Juan Du, et~al.
+\newblock High-throughput screening of sars-cov-2 main and papain-like protease inhibitors.
+\newblock {\em Protein \& Cell}, 14(1):17--27, 2023.
+
+\bibitem{17}
+Xiaoyu Zhu, Kaiqin Hu, Huiru Cheng, Huan Wu, Kuokuo Li, Yang Gao, Mingrong Lv, Chuan Xu, Hao Geng, Qunshan Shen, et~al.
+\newblock Novel meiob pathogenic variants including a homozygous non-canonical splicing variant, cause meiotic arrest and human non-obstructive azoospermia.
+\newblock {\em Clinical Genetics}, 105(1):99--105, 2024.
+
+\bibitem{27}
+Zhiqin Zhu, Xin Zheng, Guanqiu Qi, Yifei Gong, Yuanyuan Li, Neal Mazur, Baisen Cong, and Xinbo Gao.
+\newblock Drug–target binding affinity prediction model based on multi-scale diffusion and interactive learning.
+\newblock {\em Expert Systems with Applications}, 255:124647, 2024.
+
+\end{thebibliography}
