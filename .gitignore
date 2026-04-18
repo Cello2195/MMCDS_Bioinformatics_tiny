@@ -1,0 +1,17 @@
+# LaTeX 临时文件
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.pdf
+*.synctex.gz
+
+# SSH 密钥（极其重要！）
+yes
+yes.pub
+
+# 其他系统垃圾
+Thumbs.db
+.DS_Store
