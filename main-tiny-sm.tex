@@ -43,6 +43,12 @@
 
 %\usepackage{showframe}
 
+\usepackage{array}
+\renewcommand{\thetable}{S\arabic{table}}
+\setcounter{table}{0} % Table S 开头
+\renewcommand{\thefigure}{S\arabic{figure}}
+\setcounter{figure}{0} % Figure S 开头
+
 \graphicspath{{Fig/}}
 
 % line numbers
@@ -133,10 +139,97 @@ The development of male contraceptives is a critical global priority in reproduc
 
 
 
+\begin{table*}[t]
+  \centering
+  \caption{Chemical structures and affinity (KD Values) of small molecules with MEIOB, with overfitting observed in detection curves for several small molecules.}
+  \renewcommand \arraystretch{1.0}
+  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}
+    >{\centering\arraybackslash}m{4cm}
+    >{\centering\arraybackslash}m{2.5cm}
+    >{\centering\arraybackslash}m{2cm}
+    |
+    >{\centering\arraybackslash}m{4cm}
+    >{\centering\arraybackslash}m{2.5cm}
+    >{\centering\arraybackslash}m{2cm}@{\extracolsep{\fill}}}
+    \toprule
+    Combination & Chemical Structures & KD (M) & Combination & Chemical Structures & KD (M) \\
+    \midrule
+
+    L-Methionine
+    & \includegraphics[width=1.5cm]{molpic/mol1.png}
+    & $2.87 \times 10^{-8}$ (overfitting)
+    & Trimethylhydroquinone
+    & \includegraphics[width=1.5cm]{molpic/mol2.png}
+    & $1.83 \times 10^{-6}$
+    \\
+
+    D-Methionine
+    & \includegraphics[width=1.5cm]{molpic/mol3.png}
+    & $1.37 \times 10^{-7}$ (overfitting)
+    & Nicotinamide
+    & \includegraphics[width=1.5cm]{molpic/mol4.png}
+    & $2.00 \times 10^{-6}$ (overfitting)
+    \\
+
+    Pyrogallol
+    & \includegraphics[width=1.0cm]{molpic/mol5.png}
+    & $1.72 \times 10^{-7}$
+    & 2,6-Diethylaniline
+    & \includegraphics[width=1.5cm]{molpic/mol6.png}
+    & $5.41 \times 10^{-6}$
+    \\
+
+    N-Methyl-4-nitroaniline
+    & \includegraphics[width=1.5cm]{molpic/mol7.png}
+    & $2.06 \times 10^{-7}$
+    & 2,6-Di-tert-butylphenol
+    & \includegraphics[width=1.5cm]{molpic/mol8.png}
+    & $3.71 \times 10^{-5}$
+    \\
+
+    D-2-Aminobutyric acid
+    & \includegraphics[width=1.5cm]{molpic/mol9.png}
+    & $2.23 \times 10^{-7}$ (overfitting)
+    & 1,3-Cyclohexanedicarboxylic acid
+    & \includegraphics[width=1.5cm]{molpic/mol10.png}
+    & $4.44 \times 10^{-5}$ (overfitting)
+    \\
+
+    D-Norleucine
+    & \includegraphics[width=1.5cm]{molpic/mol11.png}
+    & $2.40 \times 10^{-7}$ (overfitting)
+    & D-Tryptophan
+    & \includegraphics[width=1.5cm]{molpic/mol12.png}
+    & $8.06 \times 10^{-5}$ (overfitting)
+    \\
+
+    L-Valine
+    & \includegraphics[width=1.4cm]{molpic/mol13.png}
+    & $6.69 \times 10^{-7}$ (overfitting)
+    & 1,5-Dihydroxy naphthalene
+    & \includegraphics[width=1.0cm]{molpic/mol14.png}
+    & $1.31 \times 10^{-4}$
+    \\
+
+    8-Hydroxyquinoline
+    & \includegraphics[width=1.5cm]{molpic/mol15.png}
+    & $6.85 \times 10^{-7}$ (overfitting)
+    & 4-Chloro-2-methylphenol
+    & \includegraphics[width=1.5cm]{molpic/mol16.png}
+    & $2.42 \times 10^{-3}$
+    \\
+
+
+
+    \botrule
+  \end{tabular*}
+  \label{tab:S1}
+\end{table*}
+
 
 \subsection*{Data collection}
 
-Previously, we obtained a small molecule library capable of interacting with MEIOB-SPATA22 through high-throughput screening based on the intracellular bimolecular fluorescence complementation (BiFC) assay (\citealt{67}). Derived from Chembridge's Core set library, this compound library contains a total of 177 small molecules, which we classified as effective cases (Supplementary Table 1). Meanwhile, 42,956 samples in the ChemDiv and ChemBridge were viewed as ineffective cases during experiments. Additionally, on account of the fact that the effective cases have different binding abilities with MEIOB-SPATA22, we divided them into 19 true effective cases and 158 false counterparts with a threshold of $-4.2$ based on the distribution of effective cases.
+Previously, we obtained a small molecule library capable of interacting with MEIOB-SPATA22 through high-throughput screening based on the intracellular bimolecular fluorescence complementation (BiFC) assay (\citealt{67}). Derived from Chembridge's Core set library, this compound library contains a total of 177 small molecules, which we classified as effective cases (Table \ref{tab:S1}). Meanwhile, 42,956 samples in the ChemDiv and ChemBridge were viewed as ineffective cases during experiments. Additionally, on account of the fact that the effective cases have different binding abilities with MEIOB-SPATA22, we divided them into 19 true effective cases and 158 false counterparts with a threshold of $-4.2$ based on the distribution of effective cases.
 
 
 \subsection*{Data Preprocessing}
