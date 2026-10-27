@@ -1,0 +1,18 @@
+
+!!! Encountered \end without corresponding \begin !!!
+
+!!! Reached end of file while waiting for }. !!!
+
+!!! Reached end of file while waiting for \end. !!!
+
+!!! Environment ended while waiting for nd{document}. !!!
+Total
+Words in text: 4872
+Words in headers: 93
+Words outside text (captions, etc.): 902
+Number of headers: 23
+Number of floats/tables/figures: 6
+Number of math inlines: 54
+Number of math displayed: 9
+
+(errors:4)

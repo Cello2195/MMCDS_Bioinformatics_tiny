@@ -1,17 +1,95 @@
-# LaTeX 临时文件
+# ============================================================
+# MMCDS_Bioinformatics_tiny —— 本地 LaTeX 编译忽略规则
+#
+# 原则：只忽略“任意一台机器上都能重新生成”的中间产物。
+#       别人 clone 仓库后，用 latexmk / xelatex + bibtex 跑一遍
+#       就能得到一模一样的 PDF，所以下列文件不必进仓库。
+#
+# 主文件（各自独立，编译产物同名前缀）：
+#   main.tex            传统 pdfLaTeX 版
+#   main-tiny.tex       当前投稿版（XeLaTeX，引用 pic/fig*.pdf）
+#   main-patterns.tex   图表版
+#   main-tiny-sm.tex    小图版
+#   doc/oup-authoring-template-doc.tex  模板文档
+# ============================================================
+
+# ---------- 1. LaTeX / latexmk 中间文件（可安全忽略）----------
 *.aux
 *.bbl
 *.blg
 *.log
 *.out
 *.toc
-*.pdf
-*.synctex.gz
+*.lof
+*.lot
+*.lol
+*.nav
+*.snm
+*.vrb
+*.idx
+*.ind
+*.ilg
+*.glo
+*.gls
+*.bcf
+*.run.xml
+*.spl
+*.brf
+*.fdb_latexmk
+*.fls
 
-# SSH 密钥（极其重要！）
+# XeLaTeX 的中间格式（main-tiny.xdv / main-patterns.xdv 就属于这类）
+*.xdv
+*.dvi
+*.ps
+
+# SyncTeX 正反向搜索文件；"(busy)" 是编译中崩溃留下的锁文件残留
+*.synctex.gz
+*.synctex(busy)
+*.synctex
+
+# ---------- 2. 编译出的 PDF：只忽略“根目录成稿” ----------
+# 千万不要写成全局的 *.pdf！
+# pic/ 下的 fig1.pdf ~ fig5.pdf、fig_methods.pdf 是被
+# main-tiny.tex 里 \includegraphics 直接引用的“源图”，
+# 一旦被忽略，别人 clone 后编译会报 File `pic/fig1.pdf' not found。
+# 这里用 /*.pdf 把它限定在仓库根目录（main.pdf、main-tiny.pdf 等成稿）。
+/*.pdf
+
+# ---------- 3. 本地分析/统计类临时输出 ----------
+# texcount 生成的字数统计；若想随仓库一起发布，删掉下面一行即可
+/wordcount.txt
+
+# 若以后改用 out/ 或 build/ 目录编译
+/build/
+/out/
+
+# ---------- 4. 私钥：绝对不能提交 ----------
+# 注意：.gitignore 只对“未跟踪”文件生效。yes/yes.pub 目前已在
+# 版本库中（git ls-files 可见），必须执行 git rm --cached 才会停止跟踪。
 yes
 yes.pub
+*.pem
+*.key
+id_rsa*
+id_ed25519*
 
-# 其他系统垃圾
-Thumbs.db
+# ---------- 5. 系统 / 编辑器垃圾 ----------
 .DS_Store
+._*
+__MACOSX/
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# ============================================================
+# 保持跟踪（不要加进忽略）的编译必需品：
+#   *.tex  *.cls  *.bst  *.bib  *.png
+#   pic/*.pdf        <- 当前 main-tiny.tex 的图片源，必须提交
+#   main*.sty / 自定义宏包（若有）
+# 各主文件所需的 bbl 由 reference.bib + oup-*.bst 现场生成，
+# 因此 *.bbl 可以安全忽略；只有投稿系统单独索要 .bbl 时才需手动附带。
+# ============================================================
